@@ -1,0 +1,25 @@
+{
+  "name": "@ydkjs/craco-less-module",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "zhulin <12405614@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.yryz.com/lovelorn/frontend/ydk-web.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@craco/craco": "^5.6.4"
+  }
+}

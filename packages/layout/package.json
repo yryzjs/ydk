@@ -1,0 +1,23 @@
+{
+  "name": "@ydkjs/layout",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "zhulin <12405614@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.yryz.com/lovelorn/frontend/ydk-web.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
